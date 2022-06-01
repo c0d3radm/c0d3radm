@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0d3radm
 - 👀 I’m interested in Front-End Developer at this time
-- 🌱 I’m currently learning how to use Source Control and GitKraken
+- 🌱 I’m currently learning how to use Amazon Web Services (AWS)
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me ...
 
