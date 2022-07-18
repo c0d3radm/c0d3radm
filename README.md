@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c0d3radm
 - 👀 I’m interested in Front-End Developer at this time
-- 🌱 I’m currently learning how to use Amazon Web Services (AWS)
-- 💞️ I’m looking to collaborate on Open Source
+- 🌱 I’m currently learning how to collaborate with others as a team for final project
+- 💞️ I’m looking to collaborate on small open source projects
 - 📫 How to reach me ...
 
 <!---
